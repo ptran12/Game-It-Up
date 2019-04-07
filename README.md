@@ -22,16 +22,16 @@ We wanted to created an application where it would be easy to meet new people, a
 
 Design Process
 We wanted to make the application “easy-to-use”. We decided to create two big buttons on the home page. Each button will either take the user to the find game page or the create game page. From there, we created a form to gather information from the user: type of sport, date, time, etc.
-<br>
-Built With
-HTML/CSS
-JavaScript
-SQL
-Google Maps API
-Handlebars
-Node.JS
-Passport
-Google OAuth
+
+Built With:
+- HTML/CSS
+- JavaScript
+- SQL
+- Google Maps API
+- Handlebars
+- Node.JS
+- Passport
+- Google OAuth
 
 Authors:
 - Joel Fecke
